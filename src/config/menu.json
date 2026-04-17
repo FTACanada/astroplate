@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home Test",
+      "name": "Home",
       "url": "/"
     },
     {
@@ -53,5 +53,6 @@
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     }
-  ]
+  ],
+  "draft": false
 }
