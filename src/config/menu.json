@@ -12,7 +12,8 @@
           "name": "Contact Us",
           "url": "/contact"
         }
-      ]
+      ],
+      "hasChildren": true
     },
     {
       "name": "Elements",
