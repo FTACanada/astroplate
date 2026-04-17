@@ -6,7 +6,13 @@
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/about",
+      "children": [
+        {
+          "name": "Contact Us",
+          "url": "/contact"
+        }
+      ]
     },
     {
       "name": "Elements",
