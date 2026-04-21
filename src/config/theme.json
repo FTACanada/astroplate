@@ -17,7 +17,7 @@
     "darkmode": {
       "theme_color": {
         "primary": "#254642",
-        "body": "#1c1c1c",
+        "body": "#254642",
         "border": "#3E3E3E",
         "light": "#222222",
         "dark": "#fff"
@@ -40,5 +40,6 @@
       "base": "16",
       "scale": "1.2"
     }
-  }
+  },
+  "draft": false
 }
