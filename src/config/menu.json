@@ -11,6 +11,10 @@
         {
           "name": "Contact Us",
           "url": "/contact"
+        },
+        {
+          "name": "Our Team",
+          "url": "/our-team"
         }
       ],
       "hasChildren": true
