@@ -1,6 +1,6 @@
 ---
 title: "About"
-meta_title: "About"
+meta_title: "about"
 description: "this is meta description"
 image: "/images/image-placeholder.png"
 draft: false
