@@ -11,10 +11,6 @@
         {
           "name": "Contact Us",
           "url": "/contact"
-        },
-        {
-          "name": "Our Team",
-          "url": "/authors"
         }
       ],
       "hasChildren": true
