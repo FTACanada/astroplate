@@ -6,7 +6,7 @@
     },
     {
       "name": "About",
-      "url": "/About",
+      "url": "/about",
       "children": [
         {
           "name": "Contact Us",
